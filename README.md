@@ -1,2 +1,3 @@
-# TIL
-매일의 학습을 기록합니다.
+# CODETREE
+
+Codetree 학습 메모리
